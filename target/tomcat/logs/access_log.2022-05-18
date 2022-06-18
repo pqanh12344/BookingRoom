@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [18/May/2022:13:52:43 +0700] "GET /bookingroom/ HTTP/1.1" 200 52 http-bio-8080-exec-1 76
+0:0:0:0:0:0:0:1 - - [18/May/2022:13:52:43 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:32:43 +0700] "GET /DatPhong/hotel HTTP/1.1" 404 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:32:46 +0700] "GET /DatPhong/ HTTP/1.1" 404 - http-bio-8080-exec-3 0
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:33:00 +0700] "GET /Bookingroom/ HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:33:17 +0700] "GET /bookingroom/ HTTP/1.1" 200 52 http-bio-8080-exec-5 28
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:33:31 +0700] "GET /bookingroom/api-admin-admin HTTP/1.1" 200 2 http-bio-8080-exec-6 479
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:34:23 +0700] "GET /bookingroom/test-save HTTP/1.1" 200 5 http-bio-8080-exec-7 7
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:34:33 +0700] "GET /bookingroom/api-admin-admin HTTP/1.1" 200 2 http-bio-8080-exec-8 44
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:34:47 +0700] "GET /bookingroom/test-save HTTP/1.1" 200 5 http-bio-8080-exec-1 352
+0:0:0:0:0:0:0:1 - - [18/May/2022:14:34:52 +0700] "GET /bookingroom/api-admin-admin HTTP/1.1" 200 212 http-bio-8080-exec-3 256
