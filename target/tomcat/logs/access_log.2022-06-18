@@ -1,0 +1,2 @@
+0:0:0:0:0:0:0:1 - - [18/Jun/2022:21:32:44 +0700] "GET /bookingroom/test-save HTTP/1.1" 200 9 http-bio-8080-exec-1 28
+0:0:0:0:0:0:0:1 - - [18/Jun/2022:21:32:49 +0700] "GET /bookingroom/api-admin-admin HTTP/1.1" 200 4 http-bio-8080-exec-3 619
